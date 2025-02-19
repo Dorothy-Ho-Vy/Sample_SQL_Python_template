@@ -65,6 +65,7 @@ Mention how many tables are in the dataset.
 Table 1: Products Table  
 
 👉🏻 Insert a screenshot of table schema 
+
 📌If the table is too big, only capture a part of it that contains key metrics you used in the projects
 
  _Example:_
