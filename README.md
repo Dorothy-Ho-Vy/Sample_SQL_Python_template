@@ -1,6 +1,6 @@
 # UNIGAP - PORTFOLIO BUILDING MODULE - SQL/ PYTHON PROJECT
 
-🔥Use this template as an outline for your SQL/ Python Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
+🔥Use this template as an outline for your SQL/ Python Github projects - which only contains task by tas. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
 ---
 ![KPMG Transaction Analysis](https://github.com/Dorothy-Ho-Vy/Sample_SQL_Python_template/blob/4dee6ff56077b90b1aea82e8517136f7185a77a3/Blue%20White%20Modern%20Payment%20Gateway%20Service%20Twitter%20Post.png.crdownload)
@@ -15,8 +15,7 @@ Tools Used: SQL/ Python
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
-3. [🧠 Design Thinking Process](#-design-thinking-process)  
-4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+3. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 
@@ -82,19 +81,6 @@ Table 2: Sales Transactions
 
 👉🏻 Insert a screenshot of table schema.
 
-
----
-
-## 🧠 Design Thinking Process  
-
-Explain the step-by-step approach taken to solve the problem.  
-
-👉🏻 Insert a screenshot of the Design Thinking/ 5W!H steps (Screenshot your Excel design thinking tables for better presentation).  
-
-1️⃣ Empathize  
-2️⃣ Define point of view  
-3️⃣ Ideate  
-4️⃣ Prototype and review  
 
 ---
 
