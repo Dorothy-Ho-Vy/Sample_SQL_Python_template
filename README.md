@@ -28,7 +28,7 @@ Tools Used: SQL/ Python
 Provide a brief introduction to the project. Define the problem statement and why it is important.  
 
  _Example:_
-> This project analyzes sales trends and inventory control using SQL and Power BI. The objective is to help businesses optimize stock levels, improve demand forecasting, and reduce costs.  
+> This project analyzes use Python to analyze transaction data from KPMG to evaluate user engagement from their first transactionUsing Python to analyze transaction data from KPMG to evaluate user engagement from their first transaction
 
 ### 👤 Who is this project for?  
 
