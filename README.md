@@ -92,11 +92,12 @@ Table 2: Sales Transactions
 2️⃣ Exploratory Data Analysis (EDA)  
 3️⃣ SQL/ Python Analysis 
 
-- First, explain codes' purpose -what it does
+- First, explain codes' purpose - what they do
 
 - Then how your query/ code & Insert screenshots of your result
 
 - Finally, explain your observations/ findings from the results  ts findings
+  
  _Describe trends, key metrics, and patterns._  
 
 ---
