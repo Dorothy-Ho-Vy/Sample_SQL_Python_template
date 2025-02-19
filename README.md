@@ -37,7 +37,6 @@ Mention who might benefit from this project
  _Example:_
 
 ✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
 ✔️ Decision-makers & stakeholders  
 
 ###  ❓Business Questions:  
@@ -45,9 +44,8 @@ Clearly outline what the business questions project will solve.
 
  _Example:_
 
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+✔️ Identify the behaviour in their first transaction.  
+✔️ Provide actionable insights to increase retention rate   
 
 ---
 
@@ -83,18 +81,6 @@ Table 1: Products Table
 Table 2: Sales Transactions  
 
 👉🏻 Insert a screenshot of table schema.
-
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
 
 
 ---
