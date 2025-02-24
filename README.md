@@ -74,7 +74,7 @@ Table 1: Products Table
 
 👉🏻 Insert a screenshot of table schema 
 
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects
+📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
 
  _Example:_
 
