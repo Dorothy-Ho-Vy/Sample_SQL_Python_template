@@ -27,10 +27,15 @@ Tools Used: SQL/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-Provide a brief introduction to the project. Define the problem statement and why it is important.  
+- Provide a brief introduction to the project. Define the problem statement and why it is important.
+- Write in bullet point format
 
  _Example:_
-> This project analyzes use Python to analyze transaction data from KPMG to evaluate user engagement from their first transactionUsing Python to analyze transaction data from KPMG to evaluate user engagement from their first transaction
+ 
+ This project analyzes use Python to analyze transaction data from KPMG to
+- Evaluate user engagement from their first transaction
+- Generate insights about users purchasing behaviour 
+
 
 ### 👤 Who is this project for?  
 
