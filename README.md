@@ -6,6 +6,8 @@ Make a copy of this readme file and tailor it your own. Happy portfolio-ing and 
 ---
 ![KPMG Transaction Analysis](https://github.com/Dorothy-Ho-Vy/Sample_SQL_Python_template/blob/4dee6ff56077b90b1aea82e8517136f7185a77a3/Blue%20White%20Modern%20Payment%20Gateway%20Service%20Twitter%20Post.png.crdownload)
 
+👉🏻Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
+
 # 📊 Project Title: [Your Project Name]  
 Author: [Your Name]  
 Date: YYYY-MM-DD  
