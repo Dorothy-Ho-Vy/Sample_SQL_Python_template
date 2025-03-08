@@ -25,16 +25,20 @@ Tools Used: SQL/ Python
 ## 📌 Background & Overview  
 
 ### Objective:
-### 📖 What is this project about? 
- 
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
-- Write in bullet point format
+### 📖 What is this project about? What Business Question will it solve?
+
+Clearly outline what the business questions project will solve. 
+
+- Provide a brief introduction to the project. Write in bullet point format
+- Point out the main business question
+
 
  _Example:_
+  This project uses Python to analyze transaction data from KPMG to 
+
+✔️ Identify the behavior in customer's first transaction.  
+✔️ Provide actionable insights to increase retention rate   
  
- This project analyzes use Python to analyze transaction data from KPMG to
-- Evaluate user engagement from their first transaction
-- Generate insights about users purchasing behaviour 
 
 
 ### 👤 Who is this project for?  
@@ -46,13 +50,7 @@ Mention who might benefit from this project
 ✔️ Data analysts & business analysts  
 ✔️ Decision-makers & stakeholders  
 
-###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
 
- _Example:_
-
-✔️ Identify the behaviour in their first transaction.  
-✔️ Provide actionable insights to increase retention rate   
 
 ---
 
