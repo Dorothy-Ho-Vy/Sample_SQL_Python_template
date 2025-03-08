@@ -27,14 +27,14 @@ Tools Used: SQL/ Python
 ### Objective:
 ### 📖 What is this project about? What Business Question will it solve?
 
-Clearly outline what the business questions project will solve. 
+Clearly outline what this project does, what business questions the project will solve. 
 
-- Provide a brief introduction to the project. Write in bullet point format
+- Provide a brief introduction - Write in bullet point format
 - Point out the main business question
 
 
  _Example:_
-  This project uses Python to analyze transaction data from KPMG to 
+  This project uses Python to analyze transaction data from KPMG to:
 
 ✔️ Identify the behavior in customer's first transaction.  
 ✔️ Provide actionable insights to increase retention rate   
