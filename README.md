@@ -137,7 +137,7 @@ Bounce rate represents the percentage of website sessions where users visit only
 
 *A summary of the full results. The complete dataset is available in the repository.*
 
-👉🏻 Finally, explain your observations/ findings from the results  ts findings
+👉🏻 Finally, explain your observations/ findings from the results 
   
  _Describe trends, key metrics, and patterns._  
 
