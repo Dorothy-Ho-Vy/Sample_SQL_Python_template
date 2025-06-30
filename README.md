@@ -97,11 +97,47 @@ Table 2: Sales Transactions
 2️⃣ Exploratory Data Analysis (EDA)  
 3️⃣ SQL/ Python Analysis 
 
-- First, explain codes' purpose - what they do
+👉🏻 First, explain codes' purpose - what they do.
 
-- Then how your query/ code & Insert screenshots of your result
+*_Example_*
 
-- Finally, explain your observations/ findings from the results  ts findings
+## Task 1: Analyze bounce rate...
+
+Bounce rate represents the percentage of website sessions where users visit only one page and leave without interacting further with the site. A high bounce rate can indicate that visitors are not [....]
+
+
+👉🏻 Then how your query/ code & Insert screenshots of your result
+
+  If your result is a very long table with many records, only show top 5/10 and bottom 5/10 rows, or records that relevant to the insights/ observation below
+
+*_Example_*
+
+### Project Results:
+
+| Period   | Name                | Count Items | Count Orders | Sales        |
+|:---------|:--------------------|------------:|-------------:|-------------:|
+| Apr 2014 | Bib-Shorts          |           4 |            1 |       233.97 |
+| Feb 2014 | Bib-Shorts          |           4 |            2 |       233.97 |
+| Jul 2013 | Bib-Shorts          |           2 |            1 |       116.99 |
+| Jun 2013 | Bib-Shorts          |           2 |            1 |       116.99 |
+| Apr 2014 | Bike Racks          |          45 |           45 |     5,400.00 |
+| Aug 2013 | Bike Racks          |         222 |           63 |    17,387.18 |
+| Dec 2013 | Bike Racks          |         162 |           48 |    12,582.29 |
+| Feb 2014 | Bike Racks          |          27 |           27 |     3,240.00 |
+| Jan 2014 | Bike Racks          |         161 |           53 |    12,840.00 |
+| Jul 2013 | Bike Racks          |         422 |           75 |    29,802.30 |
+| ...      | ...                 |         ... |          ... |          ... |
+| May 2014 | Vests               |         610 |          103 |    23,640.71 |
+| Nov 2013 | Vests               |         315 |           75 |    12,937.24 |
+| Oct 2013 | Vests               |         611 |           93 |    23,255.74 |
+| Sep 2013 | Vests               |         623 |          102 |    24,100.47 |
+| Jul 2013 | Wheels              |           4 |            1 |       698.63 |
+| Jun 2013 | Wheels              |           3 |            1 |       450.91 |
+| Sep 2013 | Wheels              |           1 |            1 |        83.30 |
+
+*A summary of the full results. The complete dataset is available in the repository.*
+
+👉🏻 Finally, explain your observations/ findings from the results  ts findings
   
  _Describe trends, key metrics, and patterns._  
 
