@@ -3,12 +3,24 @@
 🔥Use this template as an outline for your SQL/ Python Github projects - which is task by task type of projects. 
 Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
+Updated: Nov'25
+
 ---
 ![KPMG Transaction Analysis](https://github.com/Dorothy-Ho-Vy/Sample_SQL_Python_template/blob/4dee6ff56077b90b1aea82e8517136f7185a77a3/Blue%20White%20Modern%20Payment%20Gateway%20Service%20Twitter%20Post.png.crdownload)
 
 👉🏻Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
+# 📊 Your Project Name [ Business question + Domain + Tools ]  
+
+ _Example:_
+ _Analyze Customer segmentation of Sprocket Central - a medium size bikes accessories organization | Python_
+ 
+_+ Business question: The core problem that this project solves ->  Customer segmentation_
+
+_+ Domain: Domain/ Industry that this projects focus on --> a medium size bikes accessories organization tức công ty sản xuất và thương mại_
+
+**_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
+  
 Author: [Your Name]  
 Date: YYYY-MM-DD  
 Tools Used: SQL/ Python  
@@ -17,8 +29,8 @@ Tools Used: SQL/ Python
 
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
-3. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
+4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 
@@ -64,7 +76,7 @@ Mention who might benefit from this project
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+Mention how many tables are in the dataset.  Only mention tables that you actually used from the entire dataset. 
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
@@ -72,7 +84,7 @@ Table 1: Products Table
 
 👉🏻 Insert a screenshot of table schema 
 
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
+**_📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle_**
 
  _Example:_
 
@@ -97,7 +109,7 @@ Table 2: Sales Transactions
 2️⃣ Exploratory Data Analysis (EDA)  
 3️⃣ SQL/ Python Analysis 
 
-👉🏻 First, explain codes' purpose - what they do.
+👉🏻 First, explain codes' purpose - what they do in 1, 2 short sentences.
 
 *_Example_*
 
@@ -105,10 +117,12 @@ Table 2: Sales Transactions
 
 Bounce rate represents the percentage of website sessions where users visit only one page and leave without interacting further with the site. A high bounce rate can indicate that visitors are not [....]
 
+**_📌You need to show your understanding/ thinking process when you do this analysis. In the above exp, I explain the meaning of Bounce Rate in Marketing performance analysis - which demonstrates my understanding about the metric & its role in my projects/ flow of analysis"_**
+**_📌If the task is just simple as "Remove duplication, Replace null value.."--> Summarize all steps related to Transforming & Cleaning data steps in a group & explain shortly at once the reason why you need that transformation_**
 
 👉🏻 Then how your query/ code & Insert screenshots of your result
 
-  If your result is a very long table with many records, only show top 5/10 and bottom 5/10 rows, or records that relevant to the insights/ observation below
+ **_If your result is a very long table with many records, only show top 5/10 and bottom 5/10 rows, or records that relevant to the insights/ observation below_**
 
 *_Example_*
 
@@ -147,7 +161,10 @@ Bounce rate represents the percentage of website sessions where users visit only
 
 👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
 
-📌 Key Takeaways:  
+📍 Key Takeaways:  
 ✔️ Recommendation 1  
 ✔️ Recommendation 2  
 ✔️ Recommendation 3
+
+**_📌Remember to summarize the most core insights/ observations you extract from the entire projects. 
+ Recap ONLY key actions/ recommendations. DO NOT copy paste everything above_**
